@@ -8,7 +8,7 @@ for (var i = 0; i < speech.length; i++){
     }
 }
 count++;
-// console.log(count);
+console.log(count);
 
 // Quiz Question:
 var sentence = "i am hardworking . i am serious. i am sure i will do it";
@@ -19,4 +19,4 @@ for(var i = 0; i <sentence.length; i++){
         count++;
     }
 }
-console.log(count);
+// console.log(count);
